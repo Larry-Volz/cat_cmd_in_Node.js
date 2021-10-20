@@ -1,0 +1,14 @@
+{
+  "name": "node-intro",
+  "version": "1.0.0",
+  "description": "class assignment for introduction to node",
+  "main": "step1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "file:axios"
+  }
+}
